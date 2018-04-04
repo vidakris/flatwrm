@@ -13,3 +13,4 @@ or using Python package manager: `pip install gatspy`.
 
 To use the code, simply run `./flatwrm.py <input file(s)>`
 
+<img src="flatworm.png" width="250">
