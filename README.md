@@ -8,7 +8,7 @@ The code depends on the following packages:
 * sklearn (the machine learning toolkit)
 * gatspy (for period search)
 
-These can be installed by the system package manager, e.g.: `sudo aptitde install python-matplotlib` or `sudo port install py-matplotlib`; 
+These can be installed by the system package manager, e.g.: `sudo aptitude install python-matplotlib` or `sudo port install py-matplotlib`; 
 or using Python package manager: `pip install gatspy`.
 
 To use the code, simply run `./flatwrm.py <input file(s)>`, for a detailed list of command-line options use `./flatwrm.py --help`
