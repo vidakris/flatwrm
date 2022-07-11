@@ -1,6 +1,6 @@
 # FLATW'RM
 
-FLATW'RM (FLAre deTection With Ransac Method) is a code that uses machine learning method to detect flares. 
+FLATW'RM (FLAre deTection With Ransac Method) is a code that uses machine learning method to detect flares. For details, see the <a href="https://ui.adsabs.harvard.edu/abs/2018A%26A...616A.163V/abstract">A&A paper</a>.
 
 The code depends on the following packages:
 * matplotlib 
